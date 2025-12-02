@@ -1,3 +1,7 @@
+# Don't use this
+
+This is untested, don't use it as is.
+
 # Docker Guard + MCP Wrapper
 
 A minimal, safe Docker control layer plus a simple MCP wrapper for LLM use.
