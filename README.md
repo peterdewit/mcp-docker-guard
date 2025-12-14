@@ -1,6 +1,6 @@
 # Don't use this
 
-This is untested, don't use it as is.
+That would be silly
 
 # Docker Guard + MCP Wrapper
 
